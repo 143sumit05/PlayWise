@@ -275,10 +275,17 @@ state.
 
 ## Screenshots
 
-Screenshots of the live application will be added here.
+### Homepage
+![PlayWise Homepage](screenshots/homepage.png)
 
-Suggested screenshots: - Home page - Explore games - Game details and
-compatibility results - My PC profile - Deals and wishlist
+### Game Discovery
+![Game Discovery](screenshots/game-discovery.png)
+
+### My PC
+![My PC](screenshots/my-pc.png)
+
+### Compatibility Analysis
+![Compatibility Results](screenshots/compatibility.png)
 
 ## Deployment
 
