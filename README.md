@@ -328,6 +328,4 @@ secrets in frontend code or commit them to Git.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-**PlayWise --- Play smarter. Choose better.**
-:::
+
