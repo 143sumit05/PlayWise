@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # PlayWise
 
 ### Play smarter. Choose better.
