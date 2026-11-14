@@ -7,11 +7,7 @@ A PC gaming discovery and hardware compatibility platform that helps
 players explore games, understand their PC requirements, evaluate
 hardware compatibility, and compare game deals.
 
-[![Live
-Demo](https://img.shields.io/badge/Live-Demo-00C7D9?style=for-the-badge)](https://playwise-six.vercel.app/)
-[![Frontend](https://img.shields.io/badge/Frontend-Vercel-black?style=for-the-badge&logo=vercel)](https://playwise-six.vercel.app/)
-[![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=for-the-badge&logo=render)](https://playwise-backend-xd0v.onrender.com/api/health)
-:::
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7D9?style=for-the-badge)](https://playwise-six.vercel.app/)
 
 ------------------------------------------------------------------------
 
